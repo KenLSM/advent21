@@ -1,0 +1,10 @@
+{
+  "name": "advent21",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kenlsm <kenlsm@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clang-format": "^1.6.0"
+  }
+}

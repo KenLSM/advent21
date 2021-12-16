@@ -1,0 +1,5 @@
+# clang/js stuffs
+node_modules/
+
+# binaries
+a.out
